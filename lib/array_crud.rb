@@ -43,4 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 update_element_from_index = ["smoke" , "beer" , "cat" , "totally"]
+update_element_from_index
 end
