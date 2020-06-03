@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   remove_element_from_end_of_array = ["arrays!", "lil bub"]
- lil_bub  = remove_element_from_end_of_array
+  
 end
 
 p remove_element_from_end_of_array
