@@ -43,6 +43,6 @@ end
 
 def update_element_from_index(array, index_number, element)
 update_element_from_index = ["smoke" , "beer" , "cat"]
-update_element_from_index[4]
+update_element_from_index[3]
 => "totally"
 end
